@@ -80,3 +80,9 @@ deploy:
       type: git
       repo: git@second.github.com:gaoxiangyun/gaoxiangyun.github.io.git 
       branch: master
+
+
+
+live2d:
+  model: Epsilon2.1
+  bottom: -30
